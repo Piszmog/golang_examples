@@ -22,7 +22,7 @@ A single Goroutine can run in multiple threads.
 * No exceptions (there is error handling tho)
 
 ## References
-https://gobyexample.com/
-https://www.tutorialspoint.com/go/index.htm
-https://tour.golang.org/welcome/1
+https://gobyexample.com/  
+https://www.tutorialspoint.com/go/index.htm  
+https://tour.golang.org/welcome/1  
 https://golangbot.com/golang-tutorial-part-1-introduction-and-installation/
